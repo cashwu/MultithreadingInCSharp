@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>Recipe08</AssemblyName>
+    <RootNamespace>Recipe08</RootNamespace>
+  </PropertyGroup>
+</Project>
