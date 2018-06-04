@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/cash/RiderProjects/Multithreading_in_CSharp/Recipe3/Recipe3.csproj",
-    "projectName": "Recipe3",
-    "projectPath": "/Users/cash/RiderProjects/Multithreading_in_CSharp/Recipe3/Recipe3.csproj",
-    "outputPath": "/Users/cash/RiderProjects/Multithreading_in_CSharp/Recipe3/obj/",
+    "projectUniqueName": "/Users/cash/RiderProjects/Multithreading_in_CSharp/Recipe7/Recipe7.csproj",
+    "projectName": "Recipe7",
+    "projectPath": "/Users/cash/RiderProjects/Multithreading_in_CSharp/Recipe7/Recipe7.csproj",
+    "outputPath": "/Users/cash/RiderProjects/Multithreading_in_CSharp/Recipe7/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
