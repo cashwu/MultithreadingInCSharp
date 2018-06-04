@@ -30,8 +30,8 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch02/Recipe07/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="360">
+              <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
                 <marker date="1528097065856" expanded="true" signature="6:37" ph="..." />
                 <marker date="1528097065856" expanded="true" signature="57:1081" ph="{...}" />
@@ -265,7 +265,7 @@
       <workItem from="1528077424238" duration="3412000" />
       <workItem from="1528081105913" duration="470000" />
       <workItem from="1528092782869" duration="13000" />
-      <workItem from="1528092879924" duration="4172000" />
+      <workItem from="1528092879924" duration="4350000" />
     </task>
     <task id="LOCAL-00001" summary="add Ch01 Recipe1 使用c#建立線程">
       <created>1528073870611</created>
@@ -526,11 +526,25 @@
       <option name="project" value="LOCAL" />
       <updated>1528096767854</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="update Ch02 Recipe07 Barrier">
+      <created>1528097207822</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1528097207822</updated>
+    </task>
+    <task id="LOCAL-00039" summary="update Ch02 Recipe07 Barrier">
+      <created>1528097235300</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1528097235300</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10570000" />
+    <option name="totallyTimeSpent" value="10748000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -550,11 +564,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3707415" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3707415" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="right" id="Database" order="3" />
@@ -752,8 +766,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch02/Recipe07/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="360">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <marker date="1528097065856" expanded="true" signature="6:37" ph="..." />
             <marker date="1528097065856" expanded="true" signature="57:1081" ph="{...}" />
