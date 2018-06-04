@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace Recipe1
 {
@@ -6,7 +7,21 @@ namespace Recipe1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Thread t = new Thread(PrintNumbers);
+            
+            t.Start();
+            
+            PrintNumbers();
+        }
+
+        static void PrintNumbers()
+        {
+            Console.WriteLine("Starting...");
+
+            for (int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
