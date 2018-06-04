@@ -2,185 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70611c22-5d6c-4998-b2e5-ece0dfbf8669" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Multithreading_in_CSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreading_in_CSharp.sln" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/Recipe1.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/bin/Debug/netcoreapp2.0/Recipe1.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/bin/Debug/netcoreapp2.0/Recipe1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/bin/Debug/netcoreapp2.0/Recipe1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/bin/Debug/netcoreapp2.0/Recipe1.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/bin/Debug/netcoreapp2.0/Recipe1.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Debug/netcoreapp2.0/Recipe1.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Debug/netcoreapp2.0/Recipe1.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Debug/netcoreapp2.0/Recipe1.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Debug/netcoreapp2.0/Recipe1.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Debug/netcoreapp2.0/Recipe1.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Debug/netcoreapp2.0/Recipe1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Debug/netcoreapp2.0/Recipe1.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Recipe1.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Recipe1.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/Recipe1.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe1/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe10/bin/Debug/netcoreapp2.0/Recipe10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe10/bin/Debug/netcoreapp2.0/Recipe10.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe10/bin/Debug/netcoreapp2.0/Recipe10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe10/bin/Debug/netcoreapp2.0/Recipe10.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe10/obj/Debug/netcoreapp2.0/Recipe10.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe10/obj/Debug/netcoreapp2.0/Recipe10.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe10/obj/Debug/netcoreapp2.0/Recipe10.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe10/obj/Debug/netcoreapp2.0/Recipe10.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe11/bin/Debug/netcoreapp2.0/Recipe11.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe11/bin/Debug/netcoreapp2.0/Recipe11.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe11/bin/Debug/netcoreapp2.0/Recipe11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe11/bin/Debug/netcoreapp2.0/Recipe11.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe11/obj/Debug/netcoreapp2.0/Recipe11.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe11/obj/Debug/netcoreapp2.0/Recipe11.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe11/obj/Debug/netcoreapp2.0/Recipe11.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe11/obj/Debug/netcoreapp2.0/Recipe11.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/Recipe2.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/bin/Debug/netcoreapp2.0/Recipe2.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/bin/Debug/netcoreapp2.0/Recipe2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/bin/Debug/netcoreapp2.0/Recipe2.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/bin/Debug/netcoreapp2.0/Recipe2.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/bin/Debug/netcoreapp2.0/Recipe2.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Debug/netcoreapp2.0/Recipe2.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Debug/netcoreapp2.0/Recipe2.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Debug/netcoreapp2.0/Recipe2.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Debug/netcoreapp2.0/Recipe2.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Debug/netcoreapp2.0/Recipe2.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Debug/netcoreapp2.0/Recipe2.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Debug/netcoreapp2.0/Recipe2.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Recipe2.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Recipe2.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/Recipe2.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe2/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/Recipe3.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/bin/Debug/netcoreapp2.0/Recipe3.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/bin/Debug/netcoreapp2.0/Recipe3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/bin/Debug/netcoreapp2.0/Recipe3.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/bin/Debug/netcoreapp2.0/Recipe3.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/bin/Debug/netcoreapp2.0/Recipe3.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Debug/netcoreapp2.0/Recipe3.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Debug/netcoreapp2.0/Recipe3.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Debug/netcoreapp2.0/Recipe3.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Debug/netcoreapp2.0/Recipe3.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Debug/netcoreapp2.0/Recipe3.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Debug/netcoreapp2.0/Recipe3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Debug/netcoreapp2.0/Recipe3.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Recipe3.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Recipe3.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/Recipe3.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe3/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/Recipe4.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/bin/Debug/netcoreapp2.0/Recipe4.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/bin/Debug/netcoreapp2.0/Recipe4.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/bin/Debug/netcoreapp2.0/Recipe4.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/bin/Debug/netcoreapp2.0/Recipe4.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/bin/Debug/netcoreapp2.0/Recipe4.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Debug/netcoreapp2.0/Recipe4.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Debug/netcoreapp2.0/Recipe4.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Debug/netcoreapp2.0/Recipe4.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Debug/netcoreapp2.0/Recipe4.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Debug/netcoreapp2.0/Recipe4.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Debug/netcoreapp2.0/Recipe4.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Debug/netcoreapp2.0/Recipe4.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Recipe4.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Recipe4.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/Recipe4.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe4/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/Recipe5.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/bin/Debug/netcoreapp2.0/Recipe5.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/bin/Debug/netcoreapp2.0/Recipe5.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/bin/Debug/netcoreapp2.0/Recipe5.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/bin/Debug/netcoreapp2.0/Recipe5.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/bin/Debug/netcoreapp2.0/Recipe5.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Debug/netcoreapp2.0/Recipe5.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Debug/netcoreapp2.0/Recipe5.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Debug/netcoreapp2.0/Recipe5.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Debug/netcoreapp2.0/Recipe5.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Debug/netcoreapp2.0/Recipe5.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Debug/netcoreapp2.0/Recipe5.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Debug/netcoreapp2.0/Recipe5.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Recipe5.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Recipe5.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/Recipe5.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe5/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/Recipe6.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/bin/Debug/netcoreapp2.0/Recipe6.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/bin/Debug/netcoreapp2.0/Recipe6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/bin/Debug/netcoreapp2.0/Recipe6.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/bin/Debug/netcoreapp2.0/Recipe6.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/bin/Debug/netcoreapp2.0/Recipe6.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Debug/netcoreapp2.0/Recipe6.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Debug/netcoreapp2.0/Recipe6.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Debug/netcoreapp2.0/Recipe6.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Debug/netcoreapp2.0/Recipe6.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Debug/netcoreapp2.0/Recipe6.csprojResolveAssemblyReference.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Debug/netcoreapp2.0/Recipe6.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Debug/netcoreapp2.0/Recipe6.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Recipe6.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Recipe6.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/Recipe6.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe6/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/Recipe7.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/bin/Debug/netcoreapp2.0/Recipe7.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/bin/Debug/netcoreapp2.0/Recipe7.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/bin/Debug/netcoreapp2.0/Recipe7.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/bin/Debug/netcoreapp2.0/Recipe7.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/bin/Debug/netcoreapp2.0/Recipe7.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Debug/netcoreapp2.0/Recipe7.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Debug/netcoreapp2.0/Recipe7.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Debug/netcoreapp2.0/Recipe7.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Debug/netcoreapp2.0/Recipe7.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Debug/netcoreapp2.0/Recipe7.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Debug/netcoreapp2.0/Recipe7.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Recipe7.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Recipe7.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/Recipe7.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe7/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/Recipe8.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/bin/Debug/netcoreapp2.0/Recipe8.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/bin/Debug/netcoreapp2.0/Recipe8.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/bin/Debug/netcoreapp2.0/Recipe8.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/bin/Debug/netcoreapp2.0/Recipe8.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/bin/Debug/netcoreapp2.0/Recipe8.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Debug/netcoreapp2.0/Recipe8.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Debug/netcoreapp2.0/Recipe8.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Debug/netcoreapp2.0/Recipe8.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Debug/netcoreapp2.0/Recipe8.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Debug/netcoreapp2.0/Recipe8.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Debug/netcoreapp2.0/Recipe8.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Recipe8.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Recipe8.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/Recipe8.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe8/obj/project.packagespec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/Program.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/Recipe9.csproj" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/bin/Debug/netcoreapp2.0/Recipe9.deps.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/bin/Debug/netcoreapp2.0/Recipe9.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/bin/Debug/netcoreapp2.0/Recipe9.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/bin/Debug/netcoreapp2.0/Recipe9.runtimeconfig.dev.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/bin/Debug/netcoreapp2.0/Recipe9.runtimeconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Debug/netcoreapp2.0/Recipe9.AssemblyInfo.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Debug/netcoreapp2.0/Recipe9.AssemblyInfoInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Debug/netcoreapp2.0/Recipe9.csproj.CoreCompileInputs.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Debug/netcoreapp2.0/Recipe9.csproj.FileListAbsolute.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Debug/netcoreapp2.0/Recipe9.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Debug/netcoreapp2.0/Recipe9.pdb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Recipe9.csproj.nuget.cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Recipe9.csproj.nuget.g.props" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/Recipe9.csproj.nuget.g.targets" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/project.assets.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe9/obj/project.packagespec.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -215,7 +37,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Recipe10/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Recipe11/obj/Debug/netcoreapp2.0/Recipe11.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Recipe01/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Recipe01/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Recipe10/obj/Debug/netcoreapp2.0/Recipe10.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Recipe11/Program.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -255,6 +77,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -262,18 +85,12 @@
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
               <item name="Multithreading_in_CSharp (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
-            <path>
-              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Multithreading_in_CSharp (11 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Ch01" type="977d5f41:SolutionExplorerNodeRider" />
-            </path>
           </expand>
           <select />
         </subPane>
         <option name="show-file-system" value="false" />
         <option name="show-all-items" value="false" />
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -412,7 +229,8 @@
       <updated>1528073628397</updated>
       <workItem from="1528073631741" duration="2503000" />
       <workItem from="1528077424238" duration="3412000" />
-      <workItem from="1528081105913" duration="263000" />
+      <workItem from="1528081105913" duration="470000" />
+      <workItem from="1528092782869" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="add Ch01 Recipe1 使用c#建立線程">
       <created>1528073870611</created>
@@ -572,7 +390,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6178000" />
+    <option name="totallyTimeSpent" value="6398000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -597,7 +415,6 @@
       <window_info anchor="bottom" id="NuGet" order="7" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
@@ -608,6 +425,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -642,32 +460,26 @@
     <option name="LAST_COMMIT_MESSAGE" value="update Ch01 Recipe11 Exception" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Recipe8/Program.cs">
+    <entry file="file://$PROJECT_DIR$/Recipe01/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state>
+          <folding>
+            <marker date="1528074001883" expanded="false" signature="6:37" ph="..." />
+            <marker date="1528074001883" expanded="true" signature="56:486" ph="{...}" />
+            <marker date="1528074001883" expanded="true" signature="76:484" ph="{...}" />
+            <marker date="1528074001883" expanded="true" signature="122:268" ph="{...}" />
+            <marker date="1528074001883" expanded="true" signature="304:478" ph="{...}" />
+            <marker date="1528074001883" expanded="true" signature="402:468" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe9/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Recipe8/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe9/Program.cs" />
     <entry file="file://$PROJECT_DIR$/Recipe10/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-          <folding>
-            <marker date="1528080381729" expanded="true" signature="6:37" ph="..." />
-            <marker date="1528080381729" expanded="true" signature="77:1441" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="135:1234" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="579:699" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="720:827" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="1295:1435" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -675,125 +487,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="738">
           <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-          <folding>
-            <marker date="1528080756442" expanded="false" signature="6:37" ph="..." />
-            <marker date="1528080756442" expanded="true" signature="57:1103" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="77:1101" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="123:484" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="254:358" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="390:474" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="523:700" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="736:1095" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="762:955" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="987:1085" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe6/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe1/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
-          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe2/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe3/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe4/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe5/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="44" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe6/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe7/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe8/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="30" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe9/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="882">
-          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Recipe6/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe1/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe2/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe3/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe4/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe5/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe6/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe7/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe8/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/Recipe9/Program.cs" />
     <entry file="file://$PROJECT_DIR$/Recipe10/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-          <folding>
-            <marker date="1528080381729" expanded="true" signature="6:37" ph="..." />
-            <marker date="1528080381729" expanded="true" signature="77:1441" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="135:1234" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="579:699" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="720:827" ph="{...}" />
-            <marker date="1528080381729" expanded="true" signature="1295:1435" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Recipe1/Recipe1.csproj">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Recipe1/Recipe1.csproj" />
     <entry file="file://$PROJECT_DIR$/Recipe11/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="41" column="12" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-          <folding>
-            <marker date="1528080756442" expanded="false" signature="6:37" ph="..." />
-            <marker date="1528080756442" expanded="true" signature="57:1103" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="77:1101" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="123:484" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="254:358" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="390:474" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="523:700" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="736:1095" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="762:955" ph="{...}" />
-            <marker date="1528080756442" expanded="true" signature="987:1085" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
