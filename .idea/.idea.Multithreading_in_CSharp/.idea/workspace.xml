@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70611c22-5d6c-4998-b2e5-ece0dfbf8669" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Ch04/Recipe07/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04/Recipe07/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ch04/Recipe08/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04/Recipe08/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Ch04/Recipe07/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="326">
-              <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+            <state relative-caret-position="434">
+              <caret line="61" column="10" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
               <folding>
                 <marker date="1528194539521" expanded="true" signature="6:67" ph="..." />
                 <marker date="1528194539521" expanded="true" signature="87:2055" ph="{...}" />
@@ -49,6 +49,25 @@
                 <marker date="1528194539521" expanded="true" signature="864:955" ph="{...}" />
                 <marker date="1528194539521" expanded="true" signature="1320:1433" ph="{...}" />
                 <marker date="1528194539521" expanded="true" signature="1682:2047" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Ch04/Recipe08/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+              <folding>
+                <marker date="1528195205854" expanded="true" signature="6:101" ph="..." />
+                <marker date="1528195205854" expanded="true" signature="121:1781" ph="{...}" />
+                <marker date="1528195205854" expanded="true" signature="141:1779" ph="{...}" />
+                <marker date="1528195205854" expanded="true" signature="187:1392" ph="{...}" />
+                <marker date="1528195205854" expanded="true" signature="465:595" ph="{...}" />
+                <marker date="1528195205854" expanded="true" signature="813:1043" ph="{...}" />
+                <marker date="1528195205854" expanded="true" signature="1080:1318" ph="{...}" />
+                <marker date="1528195205854" expanded="true" signature="1449:1773" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -67,6 +86,7 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Ch04/Recipe01/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch04/Recipe02/obj/Debug/netcoreapp2.0/Recipe02.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ch04/Recipe08/obj/Debug/netcoreapp2.0/Recipe08.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch02/Recipe09/Program.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch04/Recipe03/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch03/Recipe05/Program.cs" root0="FORCE_HIGHLIGHTING" />
@@ -95,6 +115,7 @@
     <setting file="file://$PROJECT_DIR$/Ch03/Recipe01/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch03/Recipe07/obj/Debug/netcoreapp2.0/Recipe07.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch04/Recipe02/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ch04/Recipe08/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch03/Recipe06/obj/Debug/netcoreapp2.0/Recipe06.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch02/Recipe09/obj/Debug/netcoreapp2.0/Recipe09.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -135,6 +156,7 @@
         <option value="$PROJECT_DIR$/Ch04/Recipe05/Program.cs" />
         <option value="$PROJECT_DIR$/Ch04/Recipe06/Program.cs" />
         <option value="$PROJECT_DIR$/Ch04/Recipe07/Program.cs" />
+        <option value="$PROJECT_DIR$/Ch04/Recipe08/Program.cs" />
       </list>
     </option>
   </component>
@@ -162,11 +184,11 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Multithreading_in_CSharp (34 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Multithreading_in_CSharp (35 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Multithreading_in_CSharp (34 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Multithreading_in_CSharp (35 projects)" type="977d5f41:SolutionExplorerNodeRider" />
               <item name="Ch04" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
@@ -180,6 +202,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/cash/RiderProjects/Multithreading_in_CSharp/Ch04/Recipe08/Program.cs" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.VCS" />
   </component>
@@ -195,21 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected=".NET Project.Ch04\Recipe07">
-    <configuration name="Ch04\Recipe03" type="DotNetProject" factoryName=".NET Project" temporary="true">
-      <option name="EXE_PATH" value="$PROJECT_DIR$/Ch04/Recipe03/bin/Debug/netcoreapp2.0/Recipe03.dll" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch04/Recipe03" />
-      <option name="PASS_PARENT_ENVS" value="1" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Ch04/Recipe03/Recipe03.csproj" />
-      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
-      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
-      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
-      <option name="PROJECT_KIND" value="DotNetCore" />
-      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
-    </configuration>
+  <component name="RunManager" selected=".NET Project.Ch04\Recipe08">
     <configuration name="Ch04\Recipe04" type="DotNetProject" factoryName=".NET Project" temporary="true">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Ch04/Recipe04/bin/Debug/netcoreapp2.0/Recipe04.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -266,6 +275,20 @@
       <option name="PROJECT_KIND" value="DotNetCore" />
       <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
     </configuration>
+    <configuration name="Ch04\Recipe08" type="DotNetProject" factoryName=".NET Project" temporary="true">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Ch04/Recipe08/bin/Debug/netcoreapp2.0/Recipe08.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ch04/Recipe08" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Ch04/Recipe08/Recipe08.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+    </configuration>
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Recipe1/bin/Debug/netcoreapp2.0/Recipe1.dll" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -287,19 +310,19 @@
     </configuration>
     <list>
       <item itemvalue=".NET Project.Default" />
-      <item itemvalue=".NET Project.Ch04\Recipe03" />
       <item itemvalue=".NET Project.Ch04\Recipe04" />
       <item itemvalue=".NET Project.Ch04\Recipe05" />
       <item itemvalue=".NET Project.Ch04\Recipe06" />
       <item itemvalue=".NET Project.Ch04\Recipe07" />
+      <item itemvalue=".NET Project.Ch04\Recipe08" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue=".NET Project.Ch04\Recipe08" />
         <item itemvalue=".NET Project.Ch04\Recipe07" />
         <item itemvalue=".NET Project.Ch04\Recipe06" />
         <item itemvalue=".NET Project.Ch04\Recipe05" />
         <item itemvalue=".NET Project.Ch04\Recipe04" />
-        <item itemvalue=".NET Project.Ch04\Recipe03" />
       </list>
     </recent_temporary>
   </component>
@@ -322,28 +345,7 @@
       <workItem from="1528163840784" duration="3400000" />
       <workItem from="1528167528635" duration="2098000" />
       <workItem from="1528186916610" duration="3524000" />
-      <workItem from="1528191767406" duration="2337000" />
-    </task>
-    <task id="LOCAL-00023" summary="move ch01 project to folder">
-      <created>1528092947361</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1528092947361</updated>
-    </task>
-    <task id="LOCAL-00024" summary="add Ch02 Recipe1 原子操作">
-      <created>1528093223403</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1528093223403</updated>
-    </task>
-    <task id="LOCAL-00025" summary="update Ch02 Recipe1 原子操作">
-      <created>1528093804644</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1528093804644</updated>
+      <workItem from="1528191767406" duration="3007000" />
     </task>
     <task id="LOCAL-00026" summary="add Ch02 Recipe2 Mutex">
       <created>1528093873717</created>
@@ -667,11 +669,32 @@
       <option name="project" value="LOCAL" />
       <updated>1528194095375</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="update Ch04 Recipe07 處理任務中的異常">
+      <created>1528194681892</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1528194681892</updated>
+    </task>
+    <task id="LOCAL-00073" summary="add Ch04 Recipe08 並行運行任務">
+      <created>1528194753420</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1528194753420</updated>
+    </task>
+    <task id="LOCAL-00074" summary="add Ch04 Recipe08 並行運行任務">
+      <created>1528194772029</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1528194772029</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23514000" />
+    <option name="totallyTimeSpent" value="24184000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -742,8 +765,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Ch03 Recipe01 線程池調用委派" />
-    <MESSAGE value="update Ch03 Recipe01 線程池調用委派" />
     <MESSAGE value="add Ch03 Recipe02 線程池中放入異步操作" />
     <MESSAGE value="update Ch03 Recipe02 線程池中放入異步操作" />
     <MESSAGE value="update Ch03 Recipe03 線程池與並行" />
@@ -767,16 +788,11 @@
     <MESSAGE value="add Ch04 Recipe06 實現取消選項" />
     <MESSAGE value="update Ch04 Recipe06 實現取消選項" />
     <MESSAGE value="add Ch04 Recipe07 處理任務中的異常" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Ch04 Recipe07 處理任務中的異常" />
+    <MESSAGE value="update Ch04 Recipe07 處理任務中的異常" />
+    <MESSAGE value="add Ch04 Recipe08 並行運行任務" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Ch04 Recipe08 並行運行任務" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Ch03/Recipe06/Program.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Ch03/Recipe01/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -998,8 +1014,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch04/Recipe07/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="326">
-          <caret line="39" column="65" selection-start-line="39" selection-start-column="65" selection-end-line="39" selection-end-column="65" />
+        <state relative-caret-position="434">
+          <caret line="61" column="10" selection-start-line="61" selection-start-column="10" selection-end-line="61" selection-end-column="10" />
           <folding>
             <marker date="1528194539521" expanded="true" signature="6:67" ph="..." />
             <marker date="1528194539521" expanded="true" signature="87:2055" ph="{...}" />
@@ -1011,6 +1027,23 @@
             <marker date="1528194539521" expanded="true" signature="864:955" ph="{...}" />
             <marker date="1528194539521" expanded="true" signature="1320:1433" ph="{...}" />
             <marker date="1528194539521" expanded="true" signature="1682:2047" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch04/Recipe08/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="43" column="46" selection-start-line="43" selection-start-column="46" selection-end-line="43" selection-end-column="46" />
+          <folding>
+            <marker date="1528195205854" expanded="true" signature="6:101" ph="..." />
+            <marker date="1528195205854" expanded="true" signature="121:1781" ph="{...}" />
+            <marker date="1528195205854" expanded="true" signature="141:1779" ph="{...}" />
+            <marker date="1528195205854" expanded="true" signature="187:1392" ph="{...}" />
+            <marker date="1528195205854" expanded="true" signature="465:595" ph="{...}" />
+            <marker date="1528195205854" expanded="true" signature="813:1043" ph="{...}" />
+            <marker date="1528195205854" expanded="true" signature="1080:1318" ph="{...}" />
+            <marker date="1528195205854" expanded="true" signature="1449:1773" ph="{...}" />
           </folding>
         </state>
       </provider>
