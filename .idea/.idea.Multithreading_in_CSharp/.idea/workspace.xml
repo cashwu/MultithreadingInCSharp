@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="70611c22-5d6c-4998-b2e5-ece0dfbf8669" name="Default" comment="add Ch04 Recipe04 APM轉換為任務">
+    <list default="true" id="70611c22-5d6c-4998-b2e5-ece0dfbf8669" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch04/Recipe04/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ch04/Recipe04/Program.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,22 +16,22 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch04/Recipe04/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="937">
-              <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
+            <state relative-caret-position="75">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
               <folding>
-                <marker date="1528192389581" expanded="true" signature="6:67" ph="..." />
-                <marker date="1528192389581" expanded="true" signature="87:3977" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="107:3975" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="296:2750" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="673:810" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="851:984" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="1395:1528" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="1569:1707" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="2264:2440" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="2493:2631" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="2797:3157" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="3204:3563" ph="{...}" />
-                <marker date="1528192389581" expanded="true" signature="3609:3969" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="6:67" ph="..." />
+                <marker date="1528192618586" expanded="true" signature="87:3889" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="107:3887" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="296:2662" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="673:810" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="851:984" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="1395:1528" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="1569:1707" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="2176:2352" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="2405:2543" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="2709:3069" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="3116:3475" ph="{...}" />
+                <marker date="1528192618586" expanded="true" signature="3521:3881" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -292,14 +291,7 @@
       <workItem from="1528163840784" duration="3400000" />
       <workItem from="1528167528635" duration="2098000" />
       <workItem from="1528186916610" duration="3524000" />
-      <workItem from="1528191767406" duration="552000" />
-    </task>
-    <task id="LOCAL-00017" summary="add Ch01 Recipe9 lock">
-      <created>1528079300684</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1528079300684</updated>
+      <workItem from="1528191767406" duration="792000" />
     </task>
     <task id="LOCAL-00018" summary="update Ch01 Recipe9 lock">
       <created>1528079877951</created>
@@ -637,11 +629,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528190902011</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="update Ch04 Recipe04 APM轉換為任務">
+      <created>1528192628777</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1528192628779</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21729000" />
+    <option name="totallyTimeSpent" value="21969000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -654,18 +653,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41182366" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41182366" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3296593" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
@@ -676,7 +677,6 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3296593" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
@@ -712,7 +712,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update Ch02 Recipe6 CountDownEvent" />
     <MESSAGE value="update Ch02 Recipe07 Barrier" />
     <MESSAGE value="add Ch02 Recipe08 ReaderWriterLockSlim" />
     <MESSAGE value="update Ch02 Recipe08 ReaderWriterLockSlim" />
@@ -737,7 +736,8 @@
     <MESSAGE value="add Ch04 Recipe03 組和任務" />
     <MESSAGE value="update Ch04 Recipe03 組合任務" />
     <MESSAGE value="add Ch04 Recipe04 APM轉換為任務" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Ch04 Recipe04 APM轉換為任務" />
+    <MESSAGE value="update Ch04 Recipe04 APM轉換為任務" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Ch04 Recipe04 APM轉換為任務" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Ch03/Recipe03/Program.cs">
@@ -930,22 +930,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch04/Recipe04/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="937">
-          <caret line="81" column="46" selection-start-line="81" selection-start-column="46" selection-end-line="81" selection-end-column="46" />
+        <state relative-caret-position="75">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
           <folding>
-            <marker date="1528192389581" expanded="true" signature="6:67" ph="..." />
-            <marker date="1528192389581" expanded="true" signature="87:3977" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="107:3975" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="296:2750" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="673:810" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="851:984" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="1395:1528" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="1569:1707" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="2264:2440" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="2493:2631" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="2797:3157" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="3204:3563" ph="{...}" />
-            <marker date="1528192389581" expanded="true" signature="3609:3969" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="6:67" ph="..." />
+            <marker date="1528192618586" expanded="true" signature="87:3889" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="107:3887" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="296:2662" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="673:810" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="851:984" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="1395:1528" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="1569:1707" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="2176:2352" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="2405:2543" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="2709:3069" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="3116:3475" ph="{...}" />
+            <marker date="1528192618586" expanded="true" signature="3521:3881" ph="{...}" />
           </folding>
         </state>
       </provider>
