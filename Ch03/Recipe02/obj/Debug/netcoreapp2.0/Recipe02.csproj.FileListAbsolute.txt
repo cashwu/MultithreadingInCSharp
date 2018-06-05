@@ -1,0 +1,10 @@
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/obj/Debug/netcoreapp2.0/Recipe02.csproj.CoreCompileInputs.cache
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/obj/Debug/netcoreapp2.0/Recipe02.AssemblyInfoInputs.cache
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/obj/Debug/netcoreapp2.0/Recipe02.AssemblyInfo.cs
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/bin/Debug/netcoreapp2.0/Recipe02.deps.json
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/bin/Debug/netcoreapp2.0/Recipe02.runtimeconfig.json
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/bin/Debug/netcoreapp2.0/Recipe02.runtimeconfig.dev.json
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/bin/Debug/netcoreapp2.0/Recipe02.dll
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/bin/Debug/netcoreapp2.0/Recipe02.pdb
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/obj/Debug/netcoreapp2.0/Recipe02.dll
+/Users/cash/RiderProjects/Multithreading_in_CSharp/Ch03/Recipe02/obj/Debug/netcoreapp2.0/Recipe02.pdb
