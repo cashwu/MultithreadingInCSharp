@@ -431,6 +431,20 @@
           <e p="Recipe08.csproj" t="IncludeRecursive" />
         </e>
       </e>
+      <e p="Ch05" t="Include">
+        <e p="Recipe01" t="IncludeRecursive">
+          <e p="bin" t="ExcludeRecursive" />
+          <e p="obj" t="ExcludeRecursive">
+            <e p="Debug" t="Include">
+              <e p="netcoreapp2.0" t="Include">
+                <e p="Recipe01.AssemblyInfo.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Program.cs" t="Include" />
+          <e p="Recipe01.csproj" t="IncludeRecursive" />
+        </e>
+      </e>
       <e p="Multithreading_in_CSharp.sln" t="IncludeFlat" />
       <e p="packages" t="ExcludeRecursive" />
     </e>
