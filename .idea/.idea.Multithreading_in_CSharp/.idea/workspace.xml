@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70611c22-5d6c-4998-b2e5-ece0dfbf8669" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Ch05/Recipe09/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/Recipe09/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/Recipe09/Recipe09.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/Recipe09/Recipe09.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ch05/Recipe09/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Ch05/Recipe09/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Multithreading_in_CSharp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Multithreading_in_CSharp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Multithreading_in_CSharp.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,24 +15,8 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ch05/Recipe09/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding>
-                <marker date="1528258737268" expanded="true" signature="6:154" ph="..." />
-                <marker date="1528258737268" expanded="true" signature="174:1855" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="194:1730" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="240:329" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="381:608" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="686:1487" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="1049:1317" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="1117:1301" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="1520:1724" ph="{...}" />
-                <marker date="1528258737268" expanded="true" signature="1784:1853" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Ch06/Recipe01/Program.cs">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -66,6 +49,7 @@
     <setting file="file://$PROJECT_DIR$/Ch05/Recipe09/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch03/Recipe06/obj/Debug/netcoreapp2.0/Recipe06.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch02/Recipe09/obj/Debug/netcoreapp2.0/Recipe09.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ch06/Recipe01/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch04/Recipe01/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch04/Recipe08/obj/Debug/netcoreapp2.0/Recipe08.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Ch05/Recipe09/obj/Debug/netcoreapp2.0/Recipe09.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -144,6 +128,7 @@
         <option value="$PROJECT_DIR$/Ch05/Recipe07/Program.cs" />
         <option value="$PROJECT_DIR$/Ch05/Recipe08/Program.cs" />
         <option value="$PROJECT_DIR$/Ch05/Recipe09/Program.cs" />
+        <option value="$PROJECT_DIR$/Ch06/Recipe01/Program.cs" />
       </list>
     </option>
   </component>
@@ -172,18 +157,18 @@
           <expand>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Multithreading_in_CSharp (43 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Multithreading_in_CSharp (44 projects)" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Multithreading_in_CSharp (43 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Ch05" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Multithreading_in_CSharp (44 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Ch06" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
             <path>
               <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
-              <item name="Multithreading_in_CSharp (43 projects)" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Ch05" type="977d5f41:SolutionExplorerNodeRider" />
-              <item name="Recipe09" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Multithreading_in_CSharp (44 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Ch06" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Recipe01" type="977d5f41:SolutionExplorerNodeRider" />
             </path>
           </expand>
           <select />
@@ -340,14 +325,8 @@
       <workItem from="1528186916610" duration="3524000" />
       <workItem from="1528191767406" duration="3281000" />
       <workItem from="1528249262701" duration="3891000" />
-      <workItem from="1528254500590" duration="3295000" />
-    </task>
-    <task id="LOCAL-00042" summary="update Ch02 Recipe08 ReaderWriterLockSlim">
-      <created>1528098230362</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1528098230362</updated>
+      <workItem from="1528254500590" duration="3520000" />
+      <workItem from="1528356621033" duration="299000" />
     </task>
     <task id="LOCAL-00043" summary="add Ch02 Recipe09 SpinWait">
       <created>1528098273971</created>
@@ -685,11 +664,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528258052355</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="update Ch05 Recipe09 對動態類型使用 await">
+      <created>1528258886718</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1528258886718</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31644000" />
+    <option name="totallyTimeSpent" value="32168000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -705,16 +691,15 @@
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005952" side_tool="true" weight="0.3026052" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3026052" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49940476" weight="0.3026052" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.3296593" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.3296593" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39937106" />
@@ -725,6 +710,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.3296593" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
@@ -732,12 +718,12 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.38677356" />
       <window_info anchor="bottom" id="Unit Tests" order="10" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -746,7 +732,7 @@
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Build" order="14" weight="0.3296593" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" id="Database" order="4" />
@@ -760,7 +746,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Ch04 Recipe03 組和任務" />
     <MESSAGE value="update Ch04 Recipe03 組合任務" />
     <MESSAGE value="add Ch04 Recipe04 APM轉換為任務" />
     <MESSAGE value="update Ch04 Recipe04 APM轉換為任務" />
@@ -785,7 +770,8 @@
     <MESSAGE value="add Ch05 Recipe08 自定義 awaitable" />
     <MESSAGE value="update Ch05 Recipe08 自定義 awaitable" />
     <MESSAGE value="add Ch05 Recipe09 對動態類型使用 await" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Ch05 Recipe09 對動態類型使用 await" />
+    <MESSAGE value="update Ch05 Recipe09 對動態類型使用 await" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Ch05 Recipe09 對動態類型使用 await" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -793,7 +779,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Recipe01/Program.cs" />
     <entry file="file://$PROJECT_DIR$/Recipe8/Program.cs" />
     <entry file="file://$PROJECT_DIR$/Recipe9/Program.cs" />
     <entry file="file://$PROJECT_DIR$/Recipe10/Program.cs" />
@@ -948,18 +933,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
-          <folding>
-            <marker date="1528250311146" expanded="true" signature="6:67" ph="..." />
-            <marker date="1528250311146" expanded="true" signature="107:1489" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="153:299" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="340:792" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="448:522" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="607:699" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="841:1110" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="867:1000" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="1033:1100" ph="{...}" />
-            <marker date="1528250311146" expanded="true" signature="1171:1483" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -967,13 +940,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="414">
           <caret line="23" column="61" selection-start-line="23" selection-start-column="61" selection-end-line="23" selection-end-column="61" />
-          <folding>
-            <marker date="1528251039105" expanded="true" signature="6:67" ph="..." />
-            <marker date="1528251039105" expanded="true" signature="107:780" ph="{...}" />
-            <marker date="1528251039105" expanded="true" signature="153:242" ph="{...}" />
-            <marker date="1528251039105" expanded="true" signature="294:774" ph="{...}" />
-            <marker date="1528251039105" expanded="true" signature="371:659" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -981,19 +947,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1134">
           <caret line="63" column="12" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="12" />
-          <folding>
-            <marker date="1528253156828" expanded="true" signature="6:67" ph="..." />
-            <marker date="1528253156828" expanded="true" signature="107:2409" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="153:299" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="340:1477" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="397:1395" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="506:1102" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="1526:1909" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="1552:1785" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="1825:1899" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="1970:2403" ph="{...}" />
-            <marker date="1528253156828" expanded="true" signature="2126:2199" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1001,14 +954,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <marker date="1528254055902" expanded="true" signature="6:67" ph="..." />
-            <marker date="1528254055902" expanded="true" signature="107:1053" ph="{...}" />
-            <marker date="1528254055902" expanded="true" signature="153:242" ph="{...}" />
-            <marker date="1528254055902" expanded="true" signature="294:604" ph="{...}" />
-            <marker date="1528254055902" expanded="true" signature="523:594" ph="{...}" />
-            <marker date="1528254055902" expanded="true" signature="678:1047" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1016,21 +961,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
-          <folding>
-            <marker date="1528254834947" expanded="true" signature="6:43" ph="..." />
-            <marker date="1528254834947" expanded="true" signature="63:2132" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="83:2130" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="129:218" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="270:1915" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="351:487" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="527:601" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="823:965" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="998:1090" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="1366:1490" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="1521:1905" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="1746:1891" ph="{...}" />
-            <marker date="1528254834947" expanded="true" signature="1989:2124" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1038,20 +968,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="34" column="45" selection-start-line="34" selection-start-column="45" selection-end-line="34" selection-end-column="45" />
-          <folding>
-            <marker date="1528256061860" expanded="true" signature="6:67" ph="..." />
-            <marker date="1528256061860" expanded="true" signature="87:2372" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="107:2370" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="153:1193" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="381:464" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="511:1150" ph="/* try ... */" />
-            <marker date="1528256061860" expanded="true" signature="1242:1374" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="1423:1555" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="1594:1717" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="1756:1879" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="1961:2364" ph="{...}" />
-            <marker date="1528256061860" expanded="true" signature="2077:2163" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1059,32 +975,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
           <caret line="51" column="28" lean-forward="true" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
-          <folding>
-            <marker date="1528257899036" expanded="true" signature="6:106" ph="..." />
-            <marker date="1528257899036" expanded="true" signature="126:1952" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="146:626" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="192:281" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="333:620" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="653:984" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="773:853" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="896:978" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="1029:1950" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="1152:1221" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="1317:1622" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="1377:1610" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="1524:1596" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="1656:1862" ph="{...}" />
-            <marker date="1528257899036" expanded="true" signature="1897:1944" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch05/Recipe09/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="126">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
           <folding>
-            <marker date="1528258737268" expanded="true" signature="6:154" ph="..." />
+            <marker date="1528258737268" expanded="false" signature="6:154" ph="..." />
             <marker date="1528258737268" expanded="true" signature="174:1855" ph="{...}" />
             <marker date="1528258737268" expanded="true" signature="194:1730" ph="{...}" />
             <marker date="1528258737268" expanded="true" signature="240:329" ph="{...}" />
@@ -1097,6 +996,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ch06/Recipe01/Program.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
