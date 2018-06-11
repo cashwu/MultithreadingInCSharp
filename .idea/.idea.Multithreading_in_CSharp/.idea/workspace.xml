@@ -4,9 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Ch06/Recipe03/Program.cs" line="77" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="70611c22-5d6c-4998-b2e5-ece0dfbf8669" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Ch06/Recipe05/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Ch06/Recipe05/Program.cs" afterDir="false" />
-    </list>
+    <list default="true" id="70611c22-5d6c-4998-b2e5-ece0dfbf8669" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -118,22 +116,22 @@
       <file leaf-file-name="Program.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Ch06/Recipe05/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+            <state relative-caret-position="721">
+              <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
               <folding>
-                <marker date="1528360706658" expanded="true" signature="6:164" ph="..." />
-                <marker date="1528360706658" expanded="true" signature="184:2543" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="204:2462" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="250:677" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="774:1440" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="892:1001" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="1176:1354" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="1531:1888" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="1583:1824" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="1992:2277" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="2115:2267" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="2323:2456" ph="{...}" />
-                <marker date="1528360706658" expanded="true" signature="2493:2541" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="6:164" ph="..." />
+                <marker date="1528360765890" expanded="true" signature="184:2545" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="204:2464" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="250:679" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="776:1442" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="894:1003" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="1178:1356" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="1533:1890" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="1585:1826" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="1994:2279" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="2117:2269" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="2325:2458" ph="{...}" />
+                <marker date="1528360765890" expanded="true" signature="2495:2543" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -453,14 +451,7 @@
       <workItem from="1528191767406" duration="3281000" />
       <workItem from="1528249262701" duration="3891000" />
       <workItem from="1528254500590" duration="3520000" />
-      <workItem from="1528356621033" duration="4055000" />
-    </task>
-    <task id="LOCAL-00052" summary="update Ch03 Recipe04 取消選項">
-      <created>1528167876509</created>
-      <option name="number" value="00052" />
-      <option name="presentableId" value="LOCAL-00052" />
-      <option name="project" value="LOCAL" />
-      <updated>1528167876511</updated>
+      <workItem from="1528356621033" duration="4242000" />
     </task>
     <task id="LOCAL-00053" summary="add Ch03 Recipe05 線程池使用等待事件處理器及超時">
       <created>1528167959741</created>
@@ -798,11 +789,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528360151894</updated>
     </task>
-    <option name="localTasksCounter" value="101" />
+    <task id="LOCAL-00101" summary="update Ch06 Recipe05 BlockingCollection">
+      <created>1528360890373</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1528360890373</updated>
+    </task>
+    <option name="localTasksCounter" value="102" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35924000" />
+    <option name="totallyTimeSpent" value="36111000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -815,18 +813,19 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Errors In Solution" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5005952" side_tool="true" weight="0.3026052" />
       <window_info anchor="bottom" id="Unit Tests" order="7" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49880952" visible="true" weight="0.3026052" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49880952" weight="0.3026052" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.3296593" />
       <window_info anchor="bottom" id="Change Signature" sideWeight="0.5011905" side_tool="true" weight="0.3026052" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24166666" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="7" weight="0.3296593" />
       <window_info anchor="right" id="Database" order="3" />
@@ -874,7 +873,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="add Ch04 Recipe08 並行運行任務" />
     <MESSAGE value="update Ch04 Recipe08 並行運行任務" />
     <MESSAGE value="add Ch05 Recipe01 await 操作符獲取昇步任務結果" />
     <MESSAGE value="update Ch05 Recipe01 await 操作符獲取昇步任務結果" />
@@ -899,7 +897,8 @@
     <MESSAGE value="add Ch06 Recipe04 ConcurrentBag" />
     <MESSAGE value="update Ch06 Recipe04 ConcurrentBag" />
     <MESSAGE value="add Ch06 Recipe05 BlockingCollection" />
-    <option name="LAST_COMMIT_MESSAGE" value="add Ch06 Recipe05 BlockingCollection" />
+    <MESSAGE value="update Ch06 Recipe05 BlockingCollection" />
+    <option name="LAST_COMMIT_MESSAGE" value="update Ch06 Recipe05 BlockingCollection" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1214,22 +1213,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Ch06/Recipe05/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        <state relative-caret-position="721">
+          <caret line="74" column="36" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
           <folding>
-            <marker date="1528360706658" expanded="true" signature="6:164" ph="..." />
-            <marker date="1528360706658" expanded="true" signature="184:2543" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="204:2462" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="250:677" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="774:1440" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="892:1001" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="1176:1354" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="1531:1888" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="1583:1824" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="1992:2277" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="2115:2267" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="2323:2456" ph="{...}" />
-            <marker date="1528360706658" expanded="true" signature="2493:2541" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="6:164" ph="..." />
+            <marker date="1528360765890" expanded="true" signature="184:2545" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="204:2464" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="250:679" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="776:1442" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="894:1003" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="1178:1356" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="1533:1890" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="1585:1826" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="1994:2279" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="2117:2269" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="2325:2458" ph="{...}" />
+            <marker date="1528360765890" expanded="true" signature="2495:2543" ph="{...}" />
           </folding>
         </state>
       </provider>
